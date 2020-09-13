@@ -8,7 +8,7 @@ published: true
 같은 시간을 들였을 때 보다 좋은 Product를 만들어 낼 수 있을 것이다.   
 이에 대한 해답으로서, Kotlin Multiplatform과  Flutter의 조합을 살펴보려고 한다.   
 
-1. [코틀린 멀티플랫폼](#kotlin-multiplatform)  
+1. [코틀린 멀티플랫폼](https://aletheiavision-tech.github.io/Kotlin-Multi-Platform-with-Flutter-01)  
 2. [Flutter](#flutter)   
 3. [Flutter와 코틀린 멀티플랫폼 연동](#flutter-with-kotlin-multi-platform)   
 4. [아키텍쳐](#architecture)    
